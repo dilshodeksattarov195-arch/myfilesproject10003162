@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvync",
+        "uuid": 28265118,
+        "checksum": "q1szqm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
